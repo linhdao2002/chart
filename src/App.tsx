@@ -1,8 +1,5 @@
-import axios from 'axios'
-import './App.css'
-import { Line } from 'react-chartjs-2'
-import 'chart.js/auto'
-import { useEffect, useState } from 'react';
+// import 'chart.js/auto';
+import './App.css';
 
 function App() {
   // const [chartData, setChartData] = useState({});
